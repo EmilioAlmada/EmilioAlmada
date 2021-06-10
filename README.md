@@ -1,6 +1,8 @@
 ### Hi there 👋, Im Emilio Almada
 #### I'm a full stack web developer 
 
+![BKG](https://user-images.githubusercontent.com/45370225/121586539-2853db00-ca0a-11eb-9fc8-6e2a920a36f1.jpg)
+
 Im a Full Stack web developer, with solid knowledge in ReactJS and Laravel. I´m allways trying to learn new things.
 
 Skills: JAVASCRIPT/PHP/REACT/LARAVEL/HTML/CSS 
