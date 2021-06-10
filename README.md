@@ -6,6 +6,8 @@ Im a Full Stack web developer, with solid knowledge in ReactJS and Laravel. I´m
 
 Skills: JAVASCRIPT/PHP/REACT/LARAVEL/HTML/CSS 
 
+Other Ifrastructure related Skills: Oracle OCI Architect/AS-OS400/WINDOWS SERVER/LINUX 
+
 - 🔭 I’m currently working on Oracle Platform 
 - 🌱 I’m currently learning New tecnologies (For example C++)
 - 👯 I’m looking to collaborate on Open source web and IoT projects 
