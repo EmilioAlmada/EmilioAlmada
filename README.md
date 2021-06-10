@@ -1,6 +1,5 @@
 ### Hi there 👋, Im Emilio Almada
 #### I'm a full stack web developer 
-![I'm a full stack web developer ]
 
 Im a Full Stack web developer, with solid knowledge in ReactJS and Laravel. I´m allways trying to learn new things.
 
@@ -27,6 +26,7 @@ Other Ifrastructure related Skills: Oracle OCI Architect/AS-OS400/WINDOWS SERVER
 <!--
 **EmilioAlmada/EmilioAlmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
+![I'm a full stack web developer ]
 Here are some ideas to get you started:
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 - 🔭 I’m currently working on ...
