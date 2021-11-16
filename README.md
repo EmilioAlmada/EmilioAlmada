@@ -9,8 +9,8 @@ Skills: JAVASCRIPT/PHP/REACT/LARAVEL/HTML/CSS
 
 Other Ifrastructure related Skills: Oracle OCI Architect/AS-OS400/WINDOWS SERVER/LINUX 
 
-- 🔭 I’m currently working on Oracle Platform 
-- 🌱 I’m currently learning New tecnologies (For example C++)
+- 🔭 I’m currently working on Web Development and Oracle Platform 
+- 🌱 I’m currently learning New tecnologies (For example C#)
 - 👯 I’m looking to collaborate on Open source web and IoT projects 
 - 💬 Ask me about Web development and all related about Tecnologies 
 - 📫 How to reach me: On my linkedin Profile, Hakerrank or at DEV! (Check at the links below)
